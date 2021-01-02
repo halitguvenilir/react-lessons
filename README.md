@@ -32,4 +32,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 |  #  | Project                                                                                       | Live Demo                                             |
 | :-: | --------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 01  | [Count](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-1.js)         | [Live Demo](https://react-lessons.vercel.app/hooks-1) |
-| 01  | [Shopping Cart](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-2.js) | [Live Demo](https://react-lessons.vercel.app/hooks-2) |
+| 02  | [Shopping Cart](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-2.js) | [Live Demo](https://react-lessons.vercel.app/hooks-2) |
