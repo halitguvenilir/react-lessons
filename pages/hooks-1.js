@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-export default function Home() {
+export default function HooksLessonOne() {
   const [count, setCount] = useState(0);
 
   useEffect(() => {
