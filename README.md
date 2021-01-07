@@ -2,10 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Project List and Live Demo Link
 
-|  #  | Project                                                                                       | Live Demo                                             |
-| :-: | --------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 01  | [Count](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-1.js)         | [Live Demo](https://react-lessons.vercel.app/hooks-1) |
-| 02  | [Shopping Cart](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-2.js) | [Live Demo](https://react-lessons.vercel.app/hooks-2) |
+|  #  | Project                                                                                                      | Live Demo                                             |
+| :-: | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| 01  | [Count](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-1.js)                        | [Live Demo](https://react-lessons.vercel.app/hooks-1) |
+| 02  | [Shopping Cart](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-2.js)                | [Live Demo](https://react-lessons.vercel.app/hooks-2) |
+| 03  | [JSON Placeholder Api Example](https://github.com/halitguvenilir/react-lessons/blob/master/pages/hooks-3.js) | [Live Demo](https://react-lessons.vercel.app/hooks-3) |
 
 ## Getting Started
 

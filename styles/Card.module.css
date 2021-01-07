@@ -1,0 +1,19 @@
+.Card {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.Card__item {
+  width: calc(25% - 30px);
+  margin: 15px;
+  border: 1px solid #ebebeb;
+  border-radius: 8px;
+}
+
+.Card__item img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
